@@ -2,6 +2,8 @@ body{
     background-color:#b2deff ;
     font-family: 'Mitr';
     font-weight: lighter;
+    margin: auto;
+    padding: 0;
 }
 .header{
     text-align: center;
