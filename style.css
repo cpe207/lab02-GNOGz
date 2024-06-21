@@ -33,7 +33,8 @@ body{
     color: #fd4d82;
 }
 .navigation_bar a:hover{
-    font-size: 140%; 
+    font-weight: bolder;
+    color: 	#ffffff; 
 }
 
 .main{
